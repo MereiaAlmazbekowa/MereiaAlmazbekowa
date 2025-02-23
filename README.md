@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Mereia <br><br>- 🔭 I’m working as android devoloper</p>
+<p align="left">I’m Mereia, and yes, the Ctrl+C and Ctrl+V keys on my keyboard have been erased... <br><br>git push, а потом разберёмся</p>
 
 ###
 
