@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left"> git push, а потом разберёмся   My Status :</h3>
+<h3 align="left">  My Status :</h3>
 
 ###
 
