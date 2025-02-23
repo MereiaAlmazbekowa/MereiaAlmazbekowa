@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Mereia from Kyrgyzstan<br><br>- 🔭 I’m working as android devoloper</p>
+<p align="left">I'm Mereia <br><br>- 🔭 I’m working as android devoloper</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> git push, а потом разберёмся   My Stats :</h3>
 
 ###
 
